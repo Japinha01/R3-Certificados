@@ -1,0 +1,13 @@
+{
+  "name": "r3-certificados",
+  "version": "1.0.0",
+  "description": "R3 Certificados Digital - Landing Page",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  },
+  "devDependencies": {}
+}
